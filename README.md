@@ -6,7 +6,6 @@
 <br/>
 <p align="left">
 <a href="https://ptf.unze.ba/"><img alt="PTF UNZE" src="https://img.shields.io/badge/PTF_UNZE-www.ptf.unze.ba/-lightgrey?style=flat-square&logo=google-chrome"></a>
-<a href="https://github.com/size-ba/"><img alt="GITHUB" src="https://img.shields.io/badge/GITHUB-www./github.com-lightgrey?style=flat-square&logo=google-chrome"></a>
 </p>
 
 
