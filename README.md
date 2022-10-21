@@ -21,12 +21,12 @@
 
 - 🔗 Link za Google Classroom:  
 <p align="left">
-<a href="https://classroom.google.com/c/MjkzMjk3MzYyNDda"><img alt="Google Classroom" src="https://img.shields.io/badge/GoogleClassroom-www.classroom.google.com-darkgreen?style=flat-square&logo=google-classroom"></a>
+<a href="#"><img alt="Google Classroom" src="https://img.shields.io/badge/GoogleClassroom-www.classroom.google.com-darkgreen?style=flat-square&logo=google-classroom"></a>
 </p>
 
 - 🔗 Link za Google Meet: 
 <p align="left">
-<a href="https://meet.google.com/ogz-pzwg-gsr"><img alt="GoogleMeet" src="https://img.shields.io/badge/GoogleMeet-www.google.meet.com-yellow?style=flat-square&logo=google-meet"></a>
+<a href="#"><img alt="GoogleMeet" src="https://img.shields.io/badge/GoogleMeet-www.google.meet.com-yellow?style=flat-square&logo=google-meet"></a>
 </p>
 
 - ✔️ Godina: I 
